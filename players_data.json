@@ -1,0 +1,568 @@
+{
+    "players": [
+        {
+            "nick": "Raylaire",
+            "completed_challenges": {
+                "Minecraft Vanilla": [
+                    "1. Ter uma moradia"
+                ],
+                "The Box of Horrors": [
+                    "18. Encontre os esgotos e tenha audiência com Raatma"
+                ]
+            },
+            "points": 11
+        },
+        {
+            "nick": "Dearlyysz",
+            "completed_challenges": {
+                "The Box of Horrors": [
+                    "18. Encontre os esgotos e tenha audiência com Raatma"
+                ]
+            },
+            "points": 10
+        },
+        {
+            "nick": "speedqz",
+            "completed_challenges": {
+                "Minecraft Vanilla": [
+                    "1. Ter uma moradia",
+                    "7. Achar uma vila",
+                    "5. Matar o Wither",
+                    "2. Full diamante",
+                    "4. Domar UM cachorro ou UM gato"
+                ],
+                "Waystone": [
+                    "1. Tenha uma waystone em sua casa",
+                    "2. Crie uma warpstone"
+                ],
+                "Alex's Caves": [
+                    "2. Encontre uma Primordial Cave",
+                    "3. Dome um Tremorsaurus"
+                ],
+                "Backpack": [
+                    "1. Tenha uma mochila de netherite"
+                ],
+                "Mowzie's Mobs": [
+                    "5. Derrote Umvuthi, the Sunbird e crie um exército"
+                ],
+                "The Box of Horrors": [
+                    "18. Encontre os esgotos e tenha audiência com Raatma"
+                ],
+                "Alex's Mobs": [
+                    "11. Mate um Crimson Mosquito e faça um Blood Sprayer",
+                    "18. Faça uma sopa de macaco",
+                    "17. Tenha um Capuchin Monkey em seu ombro"
+                ],
+                "Bosses of Mass Destruction": [
+                    "3. Matar Nether Gauntlet"
+                ],
+                "L_Ender's Cataclysm": [
+                    "12. Derrote Netherite Monstrosity"
+                ]
+            },
+            "points": 107
+        },
+        {
+            "nick": "JonasAxt",
+            "completed_challenges": {
+                "Minecraft Vanilla": [
+                    "1. Ter uma moradia",
+                    "7. Achar uma vila",
+                    "5. Matar o Wither",
+                    "2. Full diamante",
+                    "4. Domar UM cachorro ou UM gato"
+                ],
+                "Waystone": [
+                    "1. Tenha uma waystone em sua casa",
+                    "2. Crie uma warpstone"
+                ],
+                "Mowzie's Mobs": [
+                    "1. Mate uma Naga e consiga a presa dela"
+                ],
+                "Alex's Caves": [
+                    "2. Encontre uma Primordial Cave",
+                    "3. Dome um Tremorsaurus"
+                ],
+                "Alex's Mobs": [
+                    "11. Mate um Crimson Mosquito e faça um Blood Sprayer",
+                    "17. Tenha um Capuchin Monkey em seu ombro",
+                    "18. Faça uma sopa de macaco"
+                ],
+                "Bosses of Mass Destruction": [
+                    "3. Matar Nether Gauntlet"
+                ],
+                "L_Ender's Cataclysm": [
+                    "12. Derrote Netherite Monstrosity"
+                ]
+            },
+            "points": 83
+        },
+        {
+            "nick": "Hatoddynho",
+            "completed_challenges": {
+                "Minecraft Vanilla": [
+                    "1. Ter uma moradia",
+                    "3. Transformar a armadura de diamante em netherite",
+                    "2. Full diamante",
+                    "7. Achar uma vila"
+                ],
+                "Backpack": [
+                    "1. Tenha uma mochila de netherite"
+                ],
+                "Waystone": [
+                    "1. Tenha uma waystone em sua casa",
+                    "2. Crie uma warpstone"
+                ],
+                "Alex's Caves": [
+                    "4. Derrote Luxtructosaurus",
+                    "2. Encontre uma Primordial Cave",
+                    "3. Dome um Tremorsaurus"
+                ],
+                "The Box of Horrors": [
+                    "4. Mate o Jeff The Killer",
+                    "23. Encontre o estúdio de cinema abandonado e ache o chapéu"
+                ]
+            },
+            "points": 69
+        },
+        {
+            "nick": "Vela_Loka",
+            "completed_challenges": {
+                "Mowzie's Mobs": [
+                    "1. Mate uma Naga e consiga a presa dela"
+                ],
+                "Backpack": [
+                    "1. Tenha uma mochila de netherite"
+                ],
+                "Waystone": [
+                    "2. Crie uma warpstone",
+                    "1. Tenha uma waystone em sua casa"
+                ],
+                "Minecraft Vanilla": [
+                    "7. Achar uma vila",
+                    "1. Ter uma moradia",
+                    "5. Matar o Wither",
+                    "2. Full diamante"
+                ],
+                "The Box of Horrors": [
+                    "18. Encontre os esgotos e tenha audiência com Raatma"
+                ],
+                "Bosses of Mass Destruction": [
+                    "3. Matar Nether Gauntlet"
+                ],
+                "Alex's Mobs": [
+                    "18. Faça uma sopa de macaco"
+                ],
+                "L_Ender's Cataclysm": [
+                    "12. Derrote Netherite Monstrosity"
+                ]
+            },
+            "points": 70
+        }
+    ],
+    "challenges": {
+        "Minecraft Vanilla": {
+            "1. Ter uma moradia": {
+                "pontos": 1
+            },
+            "2. Full diamante": {
+                "pontos": 2
+            },
+            "3. Transformar a armadura de diamante em netherite": {
+                "pontos": 3
+            },
+            "4. Domar UM cachorro ou UM gato": {
+                "pontos": 1
+            },
+            "5. Matar o Wither": {
+                "pontos": 7
+            },
+            "6. Matar o Ender Dragon COM A GALERA DO SERVIDOR (pelo menos 6 jogadores)": {
+                "pontos": 20
+            },
+            "7. Achar uma vila": {
+                "pontos": 1
+            }
+        },
+        "MCA Mod": {
+            "1. Fazer uma casa diferente para um villager e transformá-lo em trabalhador": {
+                "pontos": 1
+            },
+            "2. Reviver um villager da morte (terá que matar o boss da morte)": {
+                "pontos": 10
+            },
+            "3. Curar um villager da infecção zumbi": {
+                "pontos": 5
+            }
+        },
+        "Bosses of Mass Destruction": {
+            "1. Matar Night Lich": {
+                "pontos": 10
+            },
+            "2. Matar Void Blossom": {
+                "pontos": 10
+            },
+            "3. Matar Nether Gauntlet": {
+                "pontos": 10
+            },
+            "4. Matar Obsidilith": {
+                "pontos": 10
+            }
+        },
+        "Mowzie's Mobs": {
+            "1. Mate uma Naga e consiga a presa dela": {
+                "pontos": 4
+            },
+            "2. Derrote Ferrous Wroughtnaut e consiga o capacete e machado dele": {
+                "pontos": 10
+            },
+            "3. Plante uma Foliaath": {
+                "pontos": 3
+            },
+            "4. Derrote Frostmaw e consiga seu disco": {
+                "pontos": 15
+            },
+            "5. Derrote Umvuthi, the Sunbird e crie um exército": {
+                "pontos": 10
+            },
+            "6. Vire amigo de Umvuthana e realize trocas": {
+                "pontos": 4
+            }
+        },
+        "Alex's Caves": {
+            "1. Ache uma Magnetic Cave e seja scaneado": {
+                "pontos": 8
+            },
+            "2. Encontre uma Primordial Cave": {
+                "pontos": 6
+            },
+            "3. Dome um Tremorsaurus": {
+                "pontos": 9
+            },
+            "4. Derrote Luxtructosaurus": {
+                "pontos": 10
+            },
+            "5. Monte em Atlatitan": {
+                "pontos": 9
+            },
+            "6. Encontre uma Toxic Cave": {
+                "pontos": 6
+            },
+            "7. Deixe um Nucleeper explodir": {
+                "pontos": 2
+            },
+            "8. Dome um Raycat": {
+                "pontos": 5
+            },
+            "9. Derrote Brainiac": {
+                "pontos": 6
+            },
+            "10. Dome Tremorzilla": {
+                "pontos": 8
+            },
+            "11. Encontre Abyssal Chasm": {
+                "pontos": 6
+            },
+            "12. Coloque Gossamer Worm em um balde": {
+                "pontos": 2
+            },
+            "13. Tenha um submarino": {
+                "pontos": 5
+            },
+            "14. Em um submarino, tire uma foto de Hullbreaker": {
+                "pontos": 8
+            },
+            "15. Tenha um Diving Armor Set": {
+                "pontos": 5
+            },
+            "16. Coloque Sea Pig em um balde": {
+                "pontos": 2
+            },
+            "17. Encontre Forlorn Hollows": {
+                "pontos": 6
+            },
+            "18. Deixe o ritual acontecer": {
+                "pontos": 5
+            },
+            "19. Derrote um Watcher": {
+                "pontos": 5
+            },
+            "20. Derrote Forsaken": {
+                "pontos": 10
+            }
+        },
+        "L_Ender's Cataclysm": {
+            "1. Encontre Sunken City": {
+                "pontos": 6
+            },
+            "2. Derrote Leviathan": {
+                "pontos": 10
+            },
+            "3. Dome o bebê Leviathan": {
+                "pontos": 8
+            },
+            "4. Encontre Cursed Pyramid": {
+                "pontos": 6
+            },
+            "5. Derrote Ancient Remnant": {
+                "pontos": 10
+            },
+            "6. Encontre Ancient Factory": {
+                "pontos": 6
+            },
+            "7. Derrote Harbinger": {
+                "pontos": 10
+            },
+            "8. Crie uma Mechanical Fusion Anvil": {
+                "pontos": 5
+            },
+            "9. Encontre Burning Arena": {
+                "pontos": 6
+            },
+            "10. Derrote Ignis": {
+                "pontos": 12
+            },
+            "11. Encontre Soul Blacksmith": {
+                "pontos": 6
+            },
+            "12. Derrote Netherite Monstrosity": {
+                "pontos": 10
+            },
+            "13. Encontre Ruined Citadel": {
+                "pontos": 6
+            },
+            "14. Derrote Ender Golem": {
+                "pontos": 10
+            }
+        },
+        "The Graveyard": {
+            "1. Encontre uma cripta no subsolo": {
+                "pontos": 6
+            },
+            "2. Derrote Corrupted Champion com A GALERA DO SERVIDOR (pelo menos 6 jogadores)": {
+                "pontos": 30
+            }
+        },
+        "Backpack": {
+            "1. Tenha uma mochila de netherite": {
+                "pontos": 8
+            }
+        },
+        "Waystone": {
+            "1. Tenha uma waystone em sua casa": {
+                "pontos": 2
+            },
+            "2. Crie uma warpstone": {
+                "pontos": 5
+            }
+        },
+        "Iron's Spells 'n Spellbooks": {
+            "1. Tenha um Blood Spell": {
+                "pontos": 4
+            },
+            "2. Tenha um Eldritch Spell": {
+                "pontos": 4
+            },
+            "3. Tenha um Ender Spell": {
+                "pontos": 4
+            },
+            "4. Tenha um Evocation Spell": {
+                "pontos": 4
+            },
+            "5. Tenha um Fire Spell": {
+                "pontos": 4
+            },
+            "6. Tenha um Holy Spell": {
+                "pontos": 4
+            },
+            "7. Tenha um Ice Spell": {
+                "pontos": 4
+            },
+            "8. Tenha um Lightning Spell": {
+                "pontos": 4
+            },
+            "9. Tenha um Nature Spell": {
+                "pontos": 4
+            },
+            "10. Encontre uma Catacomb e mate o boss": {
+                "pontos": 12
+            }
+        },
+        "The Box of Horrors": {
+            "1. Encontre as 8 páginas": {
+                "pontos": 12
+            },
+            "2. Escute o som da sirene": {
+                "pontos": 5
+            },
+            "3. Ouça o disco molhado": {
+                "pontos": 14
+            },
+            "4. Mate o Jeff The Killer": {
+                "pontos": 10
+            },
+            "5. Dê um livro para Simon Henriksson": {
+                "pontos": 10
+            },
+            "6. Ajude James": {
+                "pontos": 8
+            },
+            "7. Consiga a faca gigante": {
+                "pontos": 9
+            },
+            "8. Encontre Michael Davis": {
+                "pontos": 8
+            },
+            "9. Coma pão e salmão e tenha um sonho estranho": {
+                "pontos": 12
+            },
+            "10. Encare a fotografia amaldiçoada": {
+                "pontos": 10
+            },
+            "11. Ofereça uma flor gentil para White Face": {
+                "pontos": 10
+            },
+            "12. Encontre o laboratório": {
+                "pontos": 12
+            },
+            "13. Encontre a pizzaria e expurgue seu perigo": {
+                "pontos": 14
+            },
+            "14. Toque uma música gelada em um local frio": {
+                "pontos": 12
+            },
+            "15. Use o disco demoníaco na chuva e derrote Ao Oni": {
+                "pontos": 12
+            },
+            "16. Use o disco divino na plains e ganhe o jogo mortal": {
+                "pontos": 15
+            },
+            "17. Entre na floresta e acabe com a maldição do garoto": {
+                "pontos": 10
+            },
+            "18. Encontre os esgotos e tenha audiência com Raatma": {
+                "pontos": 10
+            },
+            "19. Tenha audiência com a nave mãe e adquira uma de suas armas": {
+                "pontos": 12
+            },
+            "20. Encontre Eylessjack em um de seus pesadelos e retome o que é seu": {
+                "pontos": 16
+            },
+            "21. Derrote o cervo estranho e obtenha seu troféu": {
+                "pontos": 12
+            },
+            "22. Encontre o arranha céu submerso e ache Little Sister": {
+                "pontos": 16
+            },
+            "23. Encontre o estúdio de cinema abandonado e ache o chapéu": {
+                "pontos": 12
+            },
+            "24. Encontre Krampus": {
+                "pontos": 10
+            },
+            "25. Seja sequestrado pelos Walkers": {
+                "pontos": 18
+            },
+            "26. Faça uma TV e assista a fita misteriosa, presenciando uma surpresa": {
+                "pontos": 20
+            }
+        },
+        "Alex's Mobs": {
+            "1. Dar mel e salmão para um Grizzly Bear e o utilizar como montaria de guerra": {
+                "pontos": 6
+            },
+            "2. Tirar foto de um Roadrunner utilizando o mod Exposure": {
+                "pontos": 2
+            },
+            "3. Tirar foto de uma Bone Serpent utilizando o mod Exposure": {
+                "pontos": 2
+            },
+            "4. Tirar foto de uma Gazelle utilizando o mod Exposure": {
+                "pontos": 2
+            },
+            "5. Tenha um filhote de Crocodile": {
+                "pontos": 6
+            },
+            "6. Leve um Fly para o nether e tenha uma surpresa": {
+                "pontos": 6
+            },
+            "7. Faça um Hummingbird feeder e atraía um": {
+                "pontos": 6
+            },
+            "8. Tirar foto de uma Orca utilizando o mod Exposure": {
+                "pontos": 2
+            },
+            "9. Tirar foto de um Sunbird utilizando o mod Exposure": {
+                "pontos": 8
+            },
+            "10. Seja amigo de um Gorilla": {
+                "pontos": 6
+            },
+            "11. Mate um Crimson Mosquito e faça um Blood Sprayer": {
+                "pontos": 7
+            },
+            "12. Tirar foto de uma Rattlesnake utilizando o mod Exposure": {
+                "pontos": 2
+            },
+            "13. Monte em um Endergrade e o controle com Chorus": {
+                "pontos": 9
+            },
+            "14. Tirar foto de um Hammerhead Shark utilizando o mod Exposure": {
+                "pontos": 3
+            },
+            "15. Ter um Lobster em um balde": {
+                "pontos": 2
+            },
+            "16. Tenha um Komodo Dragon e o utilize como montaria": {
+                "pontos": 10
+            },
+            "17. Tenha um Capuchin Monkey em seu ombro": {
+                "pontos": 8
+            },
+            "18. Faça uma sopa de macaco": {
+                "pontos": 10
+            },
+            "19. Faça uma calça de Cave Centipede": {
+                "pontos": 5
+            },
+            "20. Dome um Warped Toad": {
+                "pontos": 8
+            },
+            "21. Tirar uma foto de um Moose utilizando o mod Exposure": {
+                "pontos": 2
+            },
+            "22. Faça uma cópia de algum item com o Mimicube": {
+                "pontos": 8
+            },
+            "23. Dome um Raccoon": {
+                "pontos": 6
+            },
+            "24. Faça uma interação com um Blobfish utilizando uma slimeball": {
+                "pontos": 10
+            },
+            "25. Tirar uma foto de uma Seal utilizando o mod Exposure": {
+                "pontos": 4
+            },
+            "26. Dê Maracas para baratas": {
+                "pontos": 12
+            },
+            "27. Tirar uma foto de um Shoebil utilizando o mod Exposure": {
+                "pontos": 2
+            },
+            "28. Dome um tusked elephant e suba em cima dele": {
+                "pontos": 10
+            },
+            "29. Tirar uma foto de um Soul Vulture utilizando o mod Exposure": {
+                "pontos": 3
+            },
+            "30. Tirar uma foto de um Snow Leopard utilizando o mod Exposure": {
+                "pontos": 2
+            }
+        }
+    },
+    "admin": {
+        "username": "Raylaire",
+        "password": "amon"
+    }
+}
